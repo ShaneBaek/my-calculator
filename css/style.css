@@ -1,0 +1,32 @@
+div {
+	display: inline-block;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+div h2#operation {
+	margin: 0;
+	height: 38px;
+	text-align: center;
+}
+
+div.operation label {
+	border-bottom: 1px solid;
+}
+
+label {
+	display: block;
+}
+
+div {
+	border: 1px solid;
+}
+
+input{
+	padding: 20px;
+	width: 30px;
+}
